@@ -1,4 +1,4 @@
-# 🚲 BikeShare AI — Streamlit Demand Dashboard
+# 🚲 BikeShare Analytics_ML — Streamlit Demand Dashboard
 
 An interactive bike-sharing demand analytics and prediction app built from the supplied project notebook and dataset.
 
