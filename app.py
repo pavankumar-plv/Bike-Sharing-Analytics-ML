@@ -11,7 +11,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 st.set_page_config(page_title="BikeShare AI | Demand Intelligence", page_icon="🚲", layout="wide")
-DATA_PATH = Path(__file__).parent / "data" / "bike_sharing.csv"
+DATA_PATH = Path(__file__).parent / "bike_sharing.csv"
 
 @st.cache_data
 def load_data():
